@@ -1152,5 +1152,3 @@ Une fois que l’utilisateur a cliqué sur le bouton Quitter, la boîte Qmessage
 
 * * *
 ![titre](https://user-images.githubusercontent.com/93833171/151644405-8e4e79c2-22b6-4cf1-a974-0bf2bf4eb3d2.jpg)
-
-  > Excellent work. For completion purposes, try to add the full code of the project. I'll wait for a remdinder once you've uploded the source files. Once done, you can delete this comment.
